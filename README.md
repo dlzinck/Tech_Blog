@@ -44,7 +44,7 @@ When I visit the site for the first time I am presented with the homepage, which
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit).
 
-Copyright (c) 2022 Drew Lane Zinck II
+Copyright (c) 2022 Drew Zinck II
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
