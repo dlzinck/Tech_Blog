@@ -30,6 +30,9 @@ When I visit the site for the first time I am presented with the homepage, which
 - [Sequelize](https://sequelize.org/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [GitHub](https://www.github.com)
+- [node.bcrypt.js](https://www.npmjs.com/package/bcrypt)
+- [Heroku](https://www.heroku.com)
+- [express-session](https://www.npmjs.com/package/express-session)
 
 
 ## Links
