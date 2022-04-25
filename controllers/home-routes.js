@@ -40,8 +40,7 @@ router.get('/post/:id', withAuth, async (req, res) => {
     }
 });
 
-// giving you the login and signup route pieces below, no changes needed.
-
+// GIVES LOGIN & SIGNUP
 router.get('/login', (req, res) => {
     if (req.session.loggedIn) {
         res.redirect('/dashboard');
