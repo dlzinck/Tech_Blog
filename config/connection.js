@@ -1,6 +1,5 @@
 // IMPORT Sequelize FROM LIBRARY
 const Sequelize = require('sequelize');
-
 require('dotenv').config();
 
 // CREATES CONNECTION TO DATABASE WITH MySQL INFORMATION
